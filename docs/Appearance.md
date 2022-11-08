@@ -1,3 +1,8 @@
+---
+layout: default
+nav_order: 1
+---
+
 # Appearance
 
 It is important that we can move undetected among the Earthlings. Our cultural experts have assembled a generic set of clothing to mimic the Earthling appearance.
