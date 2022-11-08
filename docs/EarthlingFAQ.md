@@ -1,3 +1,7 @@
+---
+layout: default
+nav_order: 1
+---
 # Earthling FAQ
 
 **Duct Tape**
