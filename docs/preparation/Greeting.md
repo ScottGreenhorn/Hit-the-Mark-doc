@@ -1,4 +1,11 @@
-# Greetingss #
+---
+layout: default
+title: Greetings
+parent: Preparation
+nav_order: 2
+---
+
+# Greetings #
 
 Upon first meeting a Earthlings, choose a **greeting** plus a **weather observation**.
 
