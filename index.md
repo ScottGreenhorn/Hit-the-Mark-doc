@@ -6,8 +6,8 @@ description: "Aliens rule!"
 permalink: /
 ---
 
-# Help welcome page
-Intro text just to see if the thing is working
+# Welcome
+A guide to useful information about earthlings and procesdures for mixing among them.
 ## Contents
 + [Introduction](docs/Introduction.md)
 + [Preparation](docs/preparation/Preparation.md)
