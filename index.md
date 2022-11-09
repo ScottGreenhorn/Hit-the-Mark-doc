@@ -10,7 +10,8 @@ permalink: /
 Intro text just to see if the thing is working
 ## Contents
 + [Introduction](docs/Introduction.md)
-+ [Earthling Greetings](docs/GreetingtheEarthlings.md)I
-+ [Appearance](docs/Appearance.md)
++ [Preparation](docs/preparation/Preparation.md)
++   [Earthling Greetings](docs/preparation/Greetings.md)I
++   [Appearance](docs/preparation/Appearance.md)
 + [Earthling FAQ](docs/EarthlingFAQ.md)
 
