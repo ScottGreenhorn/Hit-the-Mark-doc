@@ -11,7 +11,7 @@ Intro text just to see if the thing is working
 ## Contents
 + [Introduction](docs/Introduction.md)
 + [Preparation](docs/preparation/Preparation.md)
-+   [Earthling Greetings](docs/preparation/Greetings.md)I
++   [Earthling Greetings](docs/preparation/Greetings.md)
 +   [Appearance](docs/preparation/Appearance.md)
 + [Earthling FAQ](docs/EarthlingFAQ.md)
 
