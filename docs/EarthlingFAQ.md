@@ -1,6 +1,7 @@
 ---
 layout: default
-nav_order: 1
+title: Meeting the Humans
+nav_order: 4
 ---
 # Earthling FAQ
 
