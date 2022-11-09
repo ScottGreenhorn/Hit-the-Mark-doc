@@ -26,7 +26,10 @@ We used the following tools:
 You can view the generated help in the following location https://scottgreenhorn.github.io/Hit-the-Mark-doc/
 
 ### What else did we consider?
-An initial idea for this project was to get markdown content out of Github and upload it to Confluence. This proved to be a bit unnecessary once we got the Jekyll site working and figured out how easy it was to add pages to it by including specific frontmatter content in the markdown files. While investigating the idea of moving data out of (and possibly back in to) Github, we discovered a plugin for Confluence on the [Atlassian marketplace](https://marketplace.atlassian.com/apps/1216106/github-links-for-confluence?hosting=cloud&tab=overview)
+An initial idea for this project was to get markdown content out of Github and upload it to Confluence. This proved to be a bit unnecessary once we got the Jekyll site working and figured out how easy it was to add pages to it by including specific frontmatter content in the markdown files. While investigating the idea of moving data out of (and possibly back in to) Github, we discovered a plugin for Confluence on the [Atlassian marketplace](https://marketplace.atlassian.com/apps/1216106/github-links-for-confluence?hosting=cloud&tab=overview).
+
 Because this is a Confluence plugin we obviously couldn't install and test it, but it might be an option to fulfill the idea of authoring the content in one place and making it available in multiple places that is the heart of this project.
+
 We are also evaluating a free open source markdown authoring tool named [GhostWriter](https://github.com/KDE/ghostwriter/releases/tag/2.1.6). This is a lightweight and very simple markdown editor that provides all the markdown syntax in a side panel for quick reference. We did not perform a full evaluation as of this writing, but at least one team member was able to download it and create a page with headings, lists, and images within minutes. We feel it could be a strong candidate for people not familiar with markdown to write content.
+
 Though it seems only local files are supported in Ghostwriter, a local clone of the repository for people to edit and push updates is a safe expectation for people who would be writing and updating these files.
