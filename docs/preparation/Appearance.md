@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Appearance
+parent: Preparation
 nav_order: 1
 ---
 
