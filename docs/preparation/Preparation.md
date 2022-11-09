@@ -11,4 +11,3 @@ Before departure review the following:
 
 - Appearance
 - Greetings
-- Earthling FAQ
