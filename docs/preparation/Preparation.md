@@ -6,6 +6,6 @@ nav_order: 3
 # Preparation
 Before departure review the following:
 
--Appearance
--Greetings
--Earthling FAQ
+- Appearance
+- Greetings
+- Earthling FAQ
