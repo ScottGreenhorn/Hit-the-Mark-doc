@@ -11,7 +11,7 @@ A guide to useful information about earthlings and procesdures for mixing among 
 ## Contents
 + [Introduction](docs/Introduction.md)
 + [Preparation](docs/preparation/Preparation.md)
-+   [Earthling Greetings](docs/preparation/Greetings.md)
-+   [Appearance](docs/preparation/Appearance.md)
+  + [Earthling Greetings](docs/preparation/Greetings.md)
+  + [Appearance](docs/preparation/Appearance.md)
 + [Earthling FAQ](docs/EarthlingFAQ.md)
 
