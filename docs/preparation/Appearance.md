@@ -13,7 +13,7 @@ It is important that we can move undetected among the Earthlings. Our cultural e
 > **IMPORTANT**
 > Antenna must be concealed at all times!
 
-![Antenna](/images/antenna.png)
+![Antenna](../images/antenna.png)
 
 > NEVER remove your ball-cap/toque
 > 
