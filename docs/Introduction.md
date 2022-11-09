@@ -1,3 +1,9 @@
+---
+layout: default
+title: Configuration
+nav_order: 2
+---
+
 # Meeting the Humans 
 We have established that humans are the dominant species on planet Earth. 
 In order to study them further, we must interact with them without being detected.
