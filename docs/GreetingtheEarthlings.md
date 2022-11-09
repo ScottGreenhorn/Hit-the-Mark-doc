@@ -1,4 +1,4 @@
-# Greetings #
+# Greetingss #
 
 Upon first meeting a Earthlings, choose a **greeting** plus a **weather observation**.
 
