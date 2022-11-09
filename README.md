@@ -6,7 +6,7 @@ While working on the Demand Sensing CPG project, we discovered that internal tea
 ### How is this process better than Confluence for delivering configuration content?
 We feel that this process is superior because you can:
 + Maintain one source of the "truth".
-+ Publish only the required information. No more having to navigate through outdated Confluence pages.
++ Publish only the required information. No more having to navigate through outdated or incomplete Confluence pages.
 + Copy a repository to create a new version.
 + Establish clear ownership of the content.
 + Collaborate or comment on the content.
