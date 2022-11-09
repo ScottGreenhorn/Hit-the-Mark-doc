@@ -7,9 +7,10 @@ While working on the Demand Sensing CPG project, we discovered that internal tea
 We feel that this process is superior because you can:
 + Maintain one source of the "truth".
 + Publish only the required information. No more having to navigate through outdated Confluence pages.
++ Copy a repository to create a new version.
 + Establish clear ownership of the content.
 + Easy for stakeholders to collaborate or comment on the content.
-+ Content is easy to resuse, if needed.
++ Markdown content is easy to resuse, if needed.
 
 ### Can we use it for other types of content?
 Yes, we think it could have other uses. For example, it could be a better way to deliver Help for our Applications (e.g. Demand Planning, Life Sciences template). Because customers often modify resources to reflect their processes, the Applications Help doesn't always reflect what the end users see. To resolve this issue, we could create Help content in Markdown that relfects the default state of the Application. However, you can provide a copy of the Help repository to a customer so they could modify the content themselves to reflect any changes that they made.
