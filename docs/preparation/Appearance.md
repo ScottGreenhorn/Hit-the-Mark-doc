@@ -6,6 +6,7 @@ nav_order: 1
 ---
 
 # Appearance
+{: .text-green-200 .text-center }
 
 It is important that we can move undetected among the Earthlings. Our cultural experts have assembled a generic set of clothing to mimic the Earthling appearance.
 
