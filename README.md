@@ -1,7 +1,7 @@
 # Hit-the-Mark FAQ
 
 ### How did we come up with this idea?
-While working on the Demand Sensing CPG project, we discovered that internal teams were having a hard time accessing accurate and timely information about configuration and deployment. We determined that Confluence wasn't a great tool for maintaining and delivering the configuration content. It was also difficult to extract content from Confluence to resuse it in other publsihing tools. Our goal was to try to find a better way of creating, maintaining, and publishing configuration and deployment content. That's when we started investigating using Markdown files and GitHub to create a better process.
+Necessity is the mother of invention. While working on the Demand Sensing CPG project, we discovered that internal teams were having a hard time accessing accurate and timely information about configuration and deployment. We determined that Confluence wasn't a great tool for maintaining and delivering the configuration content. It was also difficult to extract content from Confluence to resuse it in other publsihing tools. Our goal was to try to find a better way of creating, maintaining, and publishing configuration and deployment content. That's when we started investigating using Markdown files and GitHub to create a better process.
 
 ### How is this process better than Confluence for delivering configuration content?
 We feel that this process is superior because you can:
