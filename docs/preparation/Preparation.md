@@ -7,6 +7,7 @@ permalink: /docs/preparation
 ---
 
 # Preparation
+{: .text-green-200 .text-center }
 Before departure review the following:
 
 - Appearance
