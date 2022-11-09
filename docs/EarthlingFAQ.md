@@ -9,7 +9,9 @@ nav_order: 4
 **Duct Tape**
 - Malfunction of any human item can be repaired with a substance called duct tape.
 
-![Ducttape](/docs/images/ducttape1.PNG)
+![Ducttape](images/ducttape1.PNG)
+
+Duct tape is a beloved human invention and is not to be disparaged.
 
 **Replying to  common queries**
 - How are you? Reply *Good, you?*
