@@ -6,6 +6,7 @@ nav_order: 2
 ---
 
 # Greetings #
+{: .text-green-200 .text-center }
 
 Upon first meeting a Earthlings, choose a **greeting** plus a **weather observation**.
 
@@ -15,6 +16,7 @@ Examples:
 * Good evening, did you see that snow? 
 
 ## Greetings ##
+{: .text-green-300 }
 
 Choose one of the following:
 
@@ -26,8 +28,10 @@ Choose one of the following:
 |Before 12:00   | Good evening     |
 
 ## Weather Obersation ##
+{: .text-green-300 }
 
 ### On a Sunny day ###
+{: .text-grey-dk-000 }
 
 |Months                 | Temperature       | Comment                    |
 |-----------------------|-------------------|----------------------------|
@@ -48,6 +52,7 @@ Choose one of the following:
 |                       | Below 5           | Chilly out there today     |
 
 ### On a Rainy day ###
+{: .text-grey-dk-000 }
 
 |Months                 | Comment|
 |-----------------------|--------------------------------------------|
@@ -55,7 +60,8 @@ Choose one of the following:
 |October to November    | Guess summer is over                       |           
 |December to March    	| Hope that water doesn't freeze on the roads|      
 
-### On a Snowy Day ###    
+### On a Snowy Day ###   
+{: .text-grey-dk-000 }
 
 |Months                 | Comment|
 |-----------------------|--------------------------------------|
