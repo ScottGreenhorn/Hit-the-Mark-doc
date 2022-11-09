@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Meeting the Humans
+title: Preperation
 nav_order: 3
 ---
 # Preparation
