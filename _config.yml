@@ -13,6 +13,10 @@ callouts:
   note:
     color: green
     title: Note
+    
+   caution:
+    color: red
+    title: Caution
 
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
