@@ -5,6 +5,7 @@ nav_order: 4
 ---
 
 # Human Offspring
+{: .text-green-200 .text-center }
 
 Unlike our own offspring, who are born fully formed, Human offspring remain in the care of their parents for several Earth decades.
 
