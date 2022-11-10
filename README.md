@@ -36,7 +36,7 @@ Though our example pages are not technical in nature, the same concepts can be a
 
 ### What tools did you use to create this Help system?
 We used the following tools:
-+ [Markdown} (https://daringfireball.net/projects/markdown/)
++ [Markdown] (https://daringfireball.net/projects/markdown/)
 + [GitHub Pages](https://pages.github.com/)
 + [Jekyll](https://jekyllrb.com/)
 + [Ruby](https://www.ruby-lang.org/en/)
