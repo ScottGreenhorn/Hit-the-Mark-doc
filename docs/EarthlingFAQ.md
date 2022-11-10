@@ -20,10 +20,10 @@ Duct tape is a beloved human invention and is not to be disparaged.
 - How's work? Reply: *You know how it is, so busy*
 - Can you believe this weather? Reply: *That's Canada, different season every day*
 
-## **Locomotion**
+## **Levitation**
 
 Humans *do not* levitate
-Levitation will cause suspicion. Remain in contact with the ground at all times.
+Levitation will arose suspicion. Remain in contact with the ground at all times.
 
 ![levitate](images/levitate.png)
 
