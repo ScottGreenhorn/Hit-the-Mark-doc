@@ -10,14 +10,12 @@ nav_order: 1
 
 It is important that we can move undetected among the Earthlings. Our cultural experts have assembled a generic set of clothing to mimic the Earthling appearance.
 
-> **IMPORTANT**
-> Antenna must be concealed at all times!
->
-> ![Antenna](../images/antenna.png)
->
-> NEVER remove your ball-cap/toque
-> 
-> If a human requests that you remove your hat you can avoid compliance by saying: *Dude, I am having a bad hair day!*
+{: .note }
+Antenna must be concealed at all times!
+NEVER remove your hat. 
+If a human requests that you remove your hat you can avoid compliance by saying: *Dude, I am having a bad hair day!*
+
+![Antenna](../images/antenna.png)
 
 Please visit the replicator and request the following attire:
 
