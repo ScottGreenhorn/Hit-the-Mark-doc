@@ -19,7 +19,7 @@ We feel that this process is superior because you can:
 + Copy a repository to create a new version.
 + Establish clear ownership of the content.
 + Reuse Markdown content in other locations (e.g. Confluence).
-+ Edit a page if you see something is out of date or incorrect.
++ Add or modify a page if you see something is out of date or incorrect.
 + Use open source tools to create the content, which makes it easier for many people to collaborate on the source content.
 
 ### What tools did you use to create this Help system?
