@@ -20,3 +20,8 @@ Duct tape is a beloved human invention and is not to be disparaged.
 
 **Alcohol**
 - Humans become much more communicative with the application of alcohol. An excellent tool for gaining information.
+
+**Locomotion**
+- Levitation will cause suspicion. Remain in contact with the ground at all times.
+
+![levitate](images/levitate.png)
