@@ -14,6 +14,8 @@ In order to study them further, we must interact with them without being detecte
 
 After much research, we have decided that the human settlement of [Ottawa](https://ottawatourism.ca/en) offers the most hospitable environment for us.
 
+![Map](images/map.png)
+
 ## Preparation
 {: .text-green-300 }
 Before departure review the following:
