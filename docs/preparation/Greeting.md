@@ -10,10 +10,7 @@ nav_order: 2
 
 Upon first meeting a Earthlings, choose a **greeting** plus a **weather observation**.
 
-Examples: 
-* Good morning, hope that water doesn't freeze on the roads! 
-* Hey, not a bad day out today 
-* Good evening, did you see that snow? 
+![greeting](../images/greeting.png) 
 
 ## Greetings ##
 {: .text-green-300 }
