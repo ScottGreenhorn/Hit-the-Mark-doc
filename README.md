@@ -3,7 +3,7 @@
 ### How did we come up with this idea?
 Necessity is the mother of invention. While working on the Demand Sensing CPG project, we discovered that internal teams were having a hard time accessing accurate and timely information about configuration and deployment. We determined that Confluence wasn't a great tool for maintaining and delivering the configuration content. It was also difficult to extract content from Confluence to reuse it in other publishing tools. 
 
-Our goal was to try to find a better way of creating, maintaining, and publishing configuration and deployment content. That's when we started investigating using Markdown files and GitHub Pages to create a better process. 
+Our goal was to try to find a better way of creating, maintaining, and publishing configuration and deployment content. That's when we started investigating using Markdown files and GitHub Pages to see if we could improve our current process. 
 
 ### Why GitHub and Markdown?
 Teams developing ML tools and processes already have Markdown readme files for their work, and those of us without access to the repos cannot access that information. Because development happens at a quicker pace, the Confluence pages get out of date quickly. Because downstream teams only have access to the confluence pages, things can get missed.
@@ -15,7 +15,7 @@ Because these tools are already in use, it just made sense to work with them.
 ### How is this process better than current tools for delivering configuration content?
 We feel that this process is superior because you can:
 + Maintain one source of the "truth".
-+ Publish only the required information. No more having to navigate through outdated or incomplete Confluence pages.
++ Publish only the required information. The content is curated for the user. No more having to navigate through outdated or incomplete Confluence pages.
 + Copy a repository to create a new version.
 + Establish clear ownership of the content.
 + Reuse Markdown content in other locations (e.g. Confluence).
