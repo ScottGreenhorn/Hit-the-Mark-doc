@@ -22,6 +22,17 @@ We feel that this process is superior because you can:
 + Edit a page if you see something is out of date or incorrect.
 + Use open source tools to create the content, which makes it easier for many people to collaborate on the source content.
 
+### What tools did you use to create this Help system?
+We used the following tools:
++ [Markdown](https://daringfireball.net/projects/markdown/)
++ [GitHub Pages](https://pages.github.com/)
++ [Jekyll](https://jekyllrb.com/)
++ [Ruby](https://www.ruby-lang.org/en/)
++ [Just-the-docs Jekyll theme](https://just-the-docs.github.io/just-the-docs/)
+
+### Where can I view a copy of the generated Help? 
+You can view the generated help in the following location https://scottgreenhorn.github.io/Hit-the-Mark-doc/
+
 ### Can we use it for other types of content?
 Yes, we think it could have other uses. For example, it could be a better way to deliver Help for our Applications (e.g. Demand Planning, Life Sciences template). Because customers often modify resources to reflect their processes, the Applications Help doesn't always reflect what the end users see. To resolve this issue, we could create Help content in Markdown that relfects the default state of the Application. However, you can provide a copy of the Help repository to a customer so they could modify the content themselves to reflect any changes that they made.
 
@@ -33,17 +44,6 @@ The repository started as a clone of the Just the Docs theme's template, which a
 We configured the site's name, included search capability, and added GitHub edit links on each page through the site's configuration YAML file. In each markdown file, we defined navigation by configuring a YAML frontend in each file. This defines the parent-child relationship between nested pages, the order of topics displayed in the sidebar of the pages, and a name and permanent link for each page.
 
 Though our example pages are not technical in nature, the same concepts can be applied to deployment and configuration content across the ML repositories, and we would like to generate a site using them.
-
-### What tools did you use to create this Help system?
-We used the following tools:
-+ [Markdown](https://daringfireball.net/projects/markdown/)
-+ [GitHub Pages](https://pages.github.com/)
-+ [Jekyll](https://jekyllrb.com/)
-+ [Ruby](https://www.ruby-lang.org/en/)
-+ [Just-the-docs Jekyll theme](https://just-the-docs.github.io/just-the-docs/)
-
-### Where can I view a copy of the generated Help? 
-You can view the generated help in the following location https://scottgreenhorn.github.io/Hit-the-Mark-doc/
 
 ### What else did you consider?
 An initial idea for this project was to get markdown content out of Github and upload it to Confluence. This proved to be a bit unnecessary once we got the Jekyll site working and figured out how easy it was to add pages to it by including specific frontmatter content in the markdown files. While investigating the idea of moving data out of (and possibly back in to) Github, we discovered a plugin for Confluence on the [Atlassian marketplace](https://marketplace.atlassian.com/apps/1216106/github-links-for-confluence?hosting=cloud&tab=overview).
