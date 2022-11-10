@@ -33,4 +33,5 @@ If you will be on planet November to March, add:
 - Scarf
 - Toque
 
-**Note** Do not remove your clothing without first refering to the Earthling FAQ.
+{: .note }
+Do not remove your clothing without first refering to the Earthling FAQ.
