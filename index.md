@@ -10,7 +10,7 @@ permalink: /
 {: .text-green-200 .text-center }
 A guide to useful information about earthlings and procedures for mixing among them.
 
-![Earth](..docs/images/Earth.png)
+![Earth](docs/images/Earth.png)
 
 ## Contents
 {: .text-green-300 }
