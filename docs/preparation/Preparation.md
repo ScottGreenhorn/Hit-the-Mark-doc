@@ -8,7 +8,5 @@ permalink: /docs/preparation
 
 # Preparation
 {: .text-green-200 .text-center }
-Before departure review the following:
+Before your departure, make sure to review the following section section. It describes some odd human behaviors that you need to be aware of.
 
-- Appearance
-- Greetings
