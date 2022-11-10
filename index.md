@@ -13,7 +13,7 @@ A guide to useful information about earthlings and procedures for mixing among t
 {: .text-green-300 }
 + [Introduction](docs/Introduction.html)
 + [Preparation](docs/preparation)
-  + [Earthling Greetings](docs/preparation/Greetings)
+  + [Earthling Greetings](docs/preparation/Greeting)
   + [Appearance](docs/preparation/Appearance)
 + [Earthling FAQ](docs/EarthlingFAQ)
 
