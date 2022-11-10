@@ -31,4 +31,5 @@ Levitation will cause suspicion. Remain in contact with the ground at all times.
 
 Humans become much more communicative with the application of alcohol. An excellent tool for gaining information.
 
-
+{: .warning }
+Too much alcohol can render a human incomprehensible or unconscious. Do not force the alcohol if the human refuses it.
