@@ -9,7 +9,7 @@ nav_order: 2
 We have established that humans are the dominant species on planet Earth. 
 In order to study them further, we must interact with them without being detected.
 
-![Meeting](images/meeting.PNG)
+![Meeting](images/Meeting.png)
 
 # Touchdown location 
 {: .text-green-200 .text-center }
