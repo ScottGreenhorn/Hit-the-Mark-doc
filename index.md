@@ -12,8 +12,8 @@ A guide to useful information about earthlings and procedures for mixing among t
 ## Contents
 {: .text-green-300 }
 + [Introduction](docs/Introduction.html)
-+ [Preparation](docs/preparation/Preparation.html)
-  + [Earthling Greetings](https://scottgreenhorn.github.io/Hit-the-Mark-doc/docs/preparation/Greetings)
-  + [Appearance](https://scottgreenhorn.github.io/Hit-the-Mark-doc/docs/preparation/Appearance)
-+ [Earthling FAQ](https://scottgreenhorn.github.io/Hit-the-Mark-doc/docs/EarthlingFAQ)
++ [Preparation](docs/preparation)
+  + [Earthling Greetings](docs/preparation/Greetings.html)
+  + [Appearance](docs/preparation/Appearance)
++ [Earthling FAQ](docs/EarthlingFAQ)
 
