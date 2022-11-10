@@ -5,10 +5,10 @@ Necessity is the mother of invention. While working on the Demand Sensing CPG pr
 
 Our goal was to try to find a better way of creating, maintaining, and publishing configuration and deployment content. That's when we started investigating using Markdown files and GitHub Pages to create a better process. 
 
-### Why GitHub and markdown?
-Teams developing ML tools and processes already have markdown readme files for their work, and those of us without access to the repos cannot access that information. Because development happens at a quicker pace, the confluence pages get out of date quickly. Because downstream teams only have access to the confluence pages, things can get missed.
+### Why GitHub and Markdown?
+Teams developing ML tools and processes already have Markdown readme files for their work, and those of us without access to the repos cannot access that information. Because development happens at a quicker pace, the Confluence pages get out of date quickly. Because downstream teams only have access to the confluence pages, things can get missed.
 
-Markdown is a very simple text format with a well-defined set of formatting options, which makes it quick and easy to write. Because of the simplicity of the files, it is also highly reusable, and can be imported into most text editors or help authoring tools. In addition, GitHub provides the ability to convert markdown files into a static site, which can provide access tot he markdown content to many additional audiences. 
+Markdown is a very simple text format with a well-defined set of formatting options, which makes it quick and easy to write. Because of the simplicity of the files, it is also highly reusable, and can be imported into most text editors or help authoring tools. In addition, GitHub provides the ability to convert Markdown files into a static site, which can provide access to the Markdown content to many additional audiences. 
 
 Because these tools are already in use, it just made sense to work with them.
 
@@ -18,9 +18,9 @@ We feel that this process is superior because you can:
 + Publish only the required information. No more having to navigate through outdated or incomplete Confluence pages.
 + Copy a repository to create a new version.
 + Establish clear ownership of the content.
-+ Collaborate or comment on the content.
 + Reuse Markdown content in other locations (e.g. Confluence).
-+ People using the site can edit the page if they see something is out of date or incorrect.
++ Edit a page if you see something is out of date or incorrect.
++ Use open source tools to create the content, which makes it easier for many people to collaborate on the source content.
 
 ### Can we use it for other types of content?
 Yes, we think it could have other uses. For example, it could be a better way to deliver Help for our Applications (e.g. Demand Planning, Life Sciences template). Because customers often modify resources to reflect their processes, the Applications Help doesn't always reflect what the end users see. To resolve this issue, we could create Help content in Markdown that relfects the default state of the Application. However, you can provide a copy of the Help repository to a customer so they could modify the content themselves to reflect any changes that they made.
@@ -36,6 +36,7 @@ Though our example pages are not technical in nature, the same concepts can be a
 
 ### What tools did you use to create this Help system?
 We used the following tools:
++ [Markdown} (https://daringfireball.net/projects/markdown/)
 + [GitHub Pages](https://pages.github.com/)
 + [Jekyll](https://jekyllrb.com/)
 + [Ruby](https://www.ruby-lang.org/en/)
