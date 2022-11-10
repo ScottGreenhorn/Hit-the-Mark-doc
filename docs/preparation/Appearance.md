@@ -17,6 +17,8 @@ If a human requests that you remove your hat you can avoid compliance by saying:
 
 ![Antenna](../images/antenna.png)
 
+# Instructions
+
 Please visit the replicator and request the following attire:
 
 - Jeans
