@@ -24,7 +24,7 @@ Choose one of the following:
 |12:00 to 18:00 | Good afternoon   |
 |Before 12:00   | Good evening     |
 
-## Weather Obersation ##
+## Weather Obervation ##
 {: .text-green-300 }
 Earthlings, particularly humans, enjoy little more than discussing and complaining about the weather. Commenting on current or recent past conditions, positive or negative, is expected when casually conversing ("small talk"), and speculation about weather on upcoming days or seasons is an excellent way to initiaite a conversation. As such, you *must* become well-acquainted with the expected and unexpected weather patterns of the region you are visiting, and some of the expected responses to each.
 
