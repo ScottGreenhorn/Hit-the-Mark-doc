@@ -8,7 +8,7 @@ permalink: /
 
 # Welcome
 {: .text-green-200 .text-center }
-A guide to useful information about earthlings and procesdures for mixing among them.
+A guide to useful information about earthlings and procedures for mixing among them.
 ## Contents
 {: .text-green-300 }
 + [Introduction](docs/Introduction.md)
