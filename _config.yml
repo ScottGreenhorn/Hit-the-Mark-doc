@@ -12,9 +12,8 @@ aux_links:
 callouts:
   note:
     color: green
-    title: Note
-    
-   caution:
+    title: Note    
+  caution:
     color: red
     title: Caution
 
