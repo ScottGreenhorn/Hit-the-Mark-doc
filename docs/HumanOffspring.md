@@ -36,6 +36,5 @@ These are the most challenging humans you will encounter. It is best to keep con
 - generally travel in groups
 - highly emotional (often laughing or crying)
 
-> **Caution**
->
-> In size, and physical maturity, teenagers are easily confused with adult Humans. 
+**Caution**
+In size, and physical maturity, teenagers are easily confused with adult Humans. 
