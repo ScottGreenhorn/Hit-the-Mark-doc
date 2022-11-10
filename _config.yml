@@ -16,6 +16,9 @@ callouts:
   caution:
     color: red
     title: Caution
+  important:
+    color: yellow
+    title: Important
 
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
