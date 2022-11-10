@@ -31,4 +31,4 @@ These are the most challenging humans you will encounter. It is best to keep con
 
 > **Caution**
 >
-> In size, and physical maturity, teenagers are easily confused with adults. 
+> In size, and physical maturity, teenagers are easily confused with adult Humans. 
