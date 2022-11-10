@@ -8,6 +8,12 @@ baseurl: /Hit-the-Mark-docs
 aux_links:
   Help Repository: https://github.com/ScottGreenhorn/Hit-the-Mark-doc
 
+# Note and tip styles
+callouts:
+  note:
+    color: green
+    title: Note
+
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "Something missing or something wrong? Edit this page"
