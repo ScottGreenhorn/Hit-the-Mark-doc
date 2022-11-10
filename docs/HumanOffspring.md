@@ -1,3 +1,9 @@
+---
+layout: default
+title: Meeting the Humans
+nav_order: 4
+---
+
 # Human Offspring
 
 Unlike our own offspring, who are born fully formed, Human offspring remain in the care of their parents for several Earth decades.
