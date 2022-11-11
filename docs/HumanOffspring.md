@@ -36,4 +36,4 @@ These are the most challenging humans you will encounter. It is best to keep con
 - highly emotional (often laughing or crying)
 
 {: .caution }
-In size, and physical maturity, teenagers are easily confused with adult Humans. 
+In size, and physical maturity, teenagers are easily confused with adult Humans. Approach with caution.
