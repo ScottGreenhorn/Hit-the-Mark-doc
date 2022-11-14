@@ -1,7 +1,7 @@
 # Hit-the-Mark FAQ
 
 ### How did we come up with this idea?
-Necessity is the mother of invention. While working on the Demand Sensing CPG project, we discovered that internal teams were having a hard time accessing accurate and timely information about configuration and deployment. We determined that Confluence wasn't a great tool for maintaining and delivering the configuration content. It was also difficult to extract content from Confluence to reuse it in other publishing tools. 
+Necessity is the mother of invention. We recently discovered that internal teams were having a hard time accessing accurate and timely information about configuration and deployment for various projects. We determined that Confluence wasn't a great tool for maintaining and delivering the configuration content. It was also difficult to extract content from Confluence to reuse it in other publishing tools. 
 
 Our goal was to try to find a better way of creating, maintaining, and publishing configuration and deployment content. That's when we started investigating using Markdown files and GitHub Pages to see if we could improve our current process. 
 
