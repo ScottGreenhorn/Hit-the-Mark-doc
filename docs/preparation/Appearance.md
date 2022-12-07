@@ -31,7 +31,7 @@ If you will be on planet November to March, add:
 
 - Boots
 - Coat
-- Mittens
+- Mittens or gloves
 - Scarf
 - Toque
 
